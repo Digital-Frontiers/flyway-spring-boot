@@ -10,7 +10,7 @@
 
 	<groupId>de.digitalfrontiers</groupId>
 	<artifactId>spring-boot-flyway-license</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>spring-boot-flyway-license</name>
@@ -155,7 +155,7 @@
 		<connection>scm:git:git://github.com/Digital-Frontiers/flyway-spring-boot.git</connection>
 		<developerConnection>scm:git:git@github.com:Digital-Frontiers/flyway-spring-boot.git</developerConnection>
 		<url>https://github.com/Digital-Frontiers/flyway-spring-boot</url>
-		<tag>spring-boot-flyway-license-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
